@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(10deg, #a6c0fe 0%, #f68084 40%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuadro-app {
+  background-color: #fff;
+  width: 40rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
